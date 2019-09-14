@@ -1,6 +1,9 @@
 # save_commands
 
 <b>Objective</b>
+
+[![Coverage Status](https://coveralls.io/repos/github/DenysNunes/save_commands/badge.svg?branch=master)](https://coveralls.io/github/DenysNunes/save_commands?branch=master) [![Build Status](https://travis-ci.org/DenysNunes/save_commands.svg?branch=dev)](https://travis-ci.org/DenysNunes/save_commands)
+
 ___
 I have all kind of shell commands, over many environments (e.g, ssh in dev for customer 'x' and another for 'y') and did need a repository for save and running this ones easily. 
 So, with this tool I can manage and run commands using keys and dont need remember full command.
