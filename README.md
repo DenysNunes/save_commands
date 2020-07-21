@@ -1,15 +1,15 @@
 # save_commands
 
+[![Coverage Status](https://coveralls.io/repos/github/DenysNunes/save_commands/badge.svg?branch=master)](https://coveralls.io/github/DenysNunes/save_commands?branch=master) 
+[![Build Status](https://travis-ci.org/DenysNunes/save_commands.svg?branch=dev)](https://travis-ci.org/DenysNunes/save_commands)
+
+
 <b>Objective</b>
 
-[![Coverage Status](https://coveralls.io/repos/github/DenysNunes/save_commands/badge.svg?branch=master)](https://coveralls.io/github/DenysNunes/save_commands?branch=master) [![Build Status](https://travis-ci.org/DenysNunes/save_commands.svg?branch=dev)](https://travis-ci.org/DenysNunes/save_commands)
-
-___
 I have all kind of shell commands, over many environments (e.g, ssh in dev for customer 'x' and another for 'y') and did need a repository for save and running this ones easily. 
 So, with this tool I can manage and run commands using keys and dont need remember full command.
 
 <b>Requeriments</b>
-___
 
 Application was developed using Python 3.7, Fedora 30 and Visual Studio Code.
 This tool don't use any external library, only `pytest` was used for testing purpose.
