@@ -13,7 +13,7 @@ So, with this tool I can manage and run commands using keys and dont need rememb
 
 This application was developed using Python 3.7, Fedora 30 and Visual Studio Code and don't use any external library, only `pytest` was used for testing purpose.
 
-<b>Installation Steps</b>
+<b>Install</b>
 
 1. Clone repository:
 
@@ -36,5 +36,5 @@ This application was developed using Python 3.7, Fedora 30 and Visual Studio Cod
 
 <b>Observations:</b>
 
-* This app write all data using Python native sqlite library, a single *.db file is saved in `home` directory.
-* All test cases are running over separated and temporary database.
+* Data write/cache using Python native sqlite library, a single *.db file is saved in `home` directory.
+* A temporary database is used for all test cases.
