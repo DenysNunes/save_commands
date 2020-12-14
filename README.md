@@ -11,8 +11,7 @@ So, with this tool I can manage and run commands using keys and dont need rememb
 
 <b>Requeriments</b>
 
-Application was developed using Python 3.7, Fedora 30 and Visual Studio Code.
-This tool don't use any external library, only `pytest` was used for testing purpose.
+This application was developed using Python 3.7, Fedora 30 and Visual Studio Code and don't use any external library, only `pytest` was used for testing purpose.
 
 <b>Installation Steps</b>
 
@@ -37,5 +36,5 @@ This tool don't use any external library, only `pytest` was used for testing pur
 
 <b>Observations:</b>
 
-* The app write all data using Python native sqlite library, a single *.db file is saved in `home` directory.
-* All test cases are running over separated and temporary databases.
+* This app write all data using Python native sqlite library, a single *.db file is saved in `home` directory.
+* All test cases are running over separated and temporary database.
